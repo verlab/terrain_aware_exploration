@@ -1,8 +1,6 @@
 # Espeleo planner meta package
 ## _Mesh-based safe path planning and exploration for ground robots_
 
-[![N|Solid](https://raw.githubusercontent.com/ITVRoC/espeleo_planner/master/espeleo_planner/img/itv_logo.svg)](http://www.itv.org/)
-
 Espeleo_planner is a ROS1-enabled, mesh-based, path planner and exploration algorithm for ground robots with traversability constraints.
 
 ## Features
